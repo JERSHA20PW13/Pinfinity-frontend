@@ -12,7 +12,11 @@ The back-end of the app is deployed on Render.com, a cloud-based platform that s
 
 
 
-![pinfinity_light](https://user-images.githubusercontent.com/76258267/229361147-4a5e1ca0-0d14-48d4-a054-d01374377a9c.gif)                                                                                                                                ![pinfinity_dark](https://user-images.githubusercontent.com/76258267/229361191-8a40eb32-d916-40cf-be22-5f53e30af8ae.gif)
+https://user-images.githubusercontent.com/76258267/229361792-4f0d4cd0-6ca1-4c22-8bac-ad406a1f54b1.mp4
+
+
+
+https://user-images.githubusercontent.com/76258267/229361803-883db521-6785-4a3f-b0b3-df4289b8ee8e.mp4
 
 
 
