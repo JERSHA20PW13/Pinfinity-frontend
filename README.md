@@ -13,8 +13,8 @@ The back-end of the app is deployed on Render.com, a cloud-based platform that s
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/76258267/229361147-4a5e1ca0-0d14-48d4-a054-d01374377a9c.gif" width="400" height="400"/>
-  <img src="https://user-images.githubusercontent.com/76258267/229361191-8a40eb32-d916-40cf-be22-5f53e30af8ae.gif" width="400" height="400"/>
+  <img src="https://user-images.githubusercontent.com/76258267/229361147-4a5e1ca0-0d14-48d4-a054-d01374377a9c.gif" width="400" height="600"/>
+  <img src="https://user-images.githubusercontent.com/76258267/229361191-8a40eb32-d916-40cf-be22-5f53e30af8ae.gif" width="400" height="600"/>
 </p>
 
 
@@ -22,4 +22,5 @@ The back-end of the app is deployed on Render.com, a cloud-based platform that s
 # Developers
 
 Jersha Heartly X
+
 Tamjid L
