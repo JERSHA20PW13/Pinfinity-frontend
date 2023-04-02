@@ -1,6 +1,6 @@
 # Pinfinity-frontend
 
-About our app
+# About our app
 
 Pinfinity is a mobile application that allows users to share and discover information using images through pinboards, with a beautiful user interface that is easy to use. The app is built with a client-server architecture, where the front-end and back-end are developed separately, and requests are forwarded through the axios library, a popular JavaScript library for making HTTP requests. The front-end is developed using modern technologies such as React Native, a popular JavaScript framework for building mobile applications, while the back-end is developed using Node.js, a popular JavaScript runtime for building server-side applications.
 
@@ -10,7 +10,13 @@ Pinfinity uses Mongo Atlas, a cloud-based NoSQL database service, to store image
 
 The back-end of the app is deployed on Render.com, a cloud-based platform that simplifies the deployment and scaling of web applications. The front-end is bundled as an APK, which users can download and install on their mobile devices.
 
-Developers
+
+
+![pinfinity_light](https://user-images.githubusercontent.com/76258267/229361147-4a5e1ca0-0d14-48d4-a054-d01374377a9c.gif)         ![pinfinity_dark](https://user-images.githubusercontent.com/76258267/229361191-8a40eb32-d916-40cf-be22-5f53e30af8ae.gif)
+
+
+
+# Developers
 
 Jersha Heartly X
 
